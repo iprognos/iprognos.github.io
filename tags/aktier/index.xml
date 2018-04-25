@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>iPrognos</title>
-    <link>https://www.iprognos.com/</link>
-    <description>Recent content on iPrognos</description>
+    <title>Aktier on iPrognos</title>
+    <link>https://www.iprognos.com/tags/aktier/</link>
+    <description>Recent content in Aktier on iPrognos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>support@iprognos.com (Ulf Sv)</managingEditor>
@@ -11,7 +11,7 @@
     <copyright>(c) 2018 iPrognos Alla rättigheter</copyright>
     <lastBuildDate>Wed, 25 Apr 2018 12:29:19 +0100</lastBuildDate>
     
-	<atom:link href="https://www.iprognos.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.iprognos.com/tags/aktier/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -22,15 +22,6 @@
       <guid>https://www.iprognos.com/2018/04/25/basta-sattet-att-tjana-pengar-pa-aktier/</guid>
       <description>Bästa sättet att tjäna pengar på aktier Aktier är en överlägsen sparform för att få pengarna att växa om man kan hitta rätt aktier och få avkastning på investeringen. Men aktieplacering är också mer riskfyllt än sparande på konto eller obligationer.
 Hur värderar jag risken? Nobelpristagaren William Sharpe upptäckte ett samband mellan avkastning och risk. Uppkallad efter honom kallas det för Sharpe kvoten, den visar på ett sätt att mäta risk genom att i formeln stoppa in avkastning, volatiliteten (svängningarna i portföljen) och den riskfria räntan:</description>
-    </item>
-    
-    <item>
-      <title>Introduktion</title>
-      <link>https://www.iprognos.com/2016/12/05/introduction.sv/</link>
-      <pubDate>Mon, 05 Dec 2016 12:29:19 +0100</pubDate>
-      <author>support@iprognos.com (Ulf Sv)</author>
-      <guid>https://www.iprognos.com/2016/12/05/introduction.sv/</guid>
-      <description>En rubrik Text om ämnet ett.</description>
     </item>
     
   </channel>
