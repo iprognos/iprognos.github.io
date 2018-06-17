@@ -13,12 +13,21 @@
   </url>
   
   <url>
+    <loc>https://www.iprognos.com/formular/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.iprognos.com/integritetspolicy/</loc>
   </url>
   
   <url>
     <loc>https://www.iprognos.com/topics/aktieplacering/</loc>
     <lastmod>2018-04-28T12:29:19+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.iprognos.com/tags/one/</loc>
     <priority>0</priority>
   </url>
   
@@ -34,8 +43,18 @@
   </url>
   
   <url>
+    <loc>https://www.iprognos.com/topics/topic-1/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.iprognos.com/topics/</loc>
     <lastmod>2018-04-28T12:29:19+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.iprognos.com/tags/two/</loc>
     <priority>0</priority>
   </url>
   
