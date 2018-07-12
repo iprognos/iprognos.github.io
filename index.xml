@@ -9,10 +9,19 @@
     <managingEditor>support@iprognos.com (Ulf Sv)</managingEditor>
     <webMaster>support@iprognos.com (Ulf Sv)</webMaster>
     <copyright>(c) 2018 iPrognos Alla rättigheter</copyright>
-    <lastBuildDate>Sat, 28 Apr 2018 12:29:19 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jul 2018 12:29:19 +0100</lastBuildDate>
     
 	<atom:link href="https://www.iprognos.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hur man kan få AI genererade aktieanalyser som epost</title>
+      <link>https://www.iprognos.com/2018/07/11/hur-man-kan-fa-ai-genererade-aktieanalyser-som-epost/</link>
+      <pubDate>Wed, 11 Jul 2018 12:29:19 +0100</pubDate>
+      <author>support@iprognos.com (Ulf Sv)</author>
+      <guid>https://www.iprognos.com/2018/07/11/hur-man-kan-fa-ai-genererade-aktieanalyser-som-epost/</guid>
+      <description>Hur man kan få AI genererade aktieanalyser som epost</description>
+    </item>
     
     <item>
       <title>Hur man kan använda djupinlärning vid aktiehandel</title>
@@ -24,15 +33,6 @@
 Aktier är en överlägsen sparform för att få pengarna att växa om man kan hitta rätt aktier och få avkastning på investeringen.
 Men aktieplacering är också mer riskfyllt än sparande på konto eller obligationer.
 Hur värderar jag risken?</description>
-    </item>
-    
-    <item>
-      <title>Hur man kan använda djupinlärning vid aktiehandel</title>
-      <link>https://www.iprognos.com/2018/04/28/hur-man-kan-fa-ai-genererade-aktieanalyser-som-epost/</link>
-      <pubDate>Sat, 28 Apr 2018 12:29:19 +0100</pubDate>
-      <author>support@iprognos.com (Ulf Sv)</author>
-      <guid>https://www.iprognos.com/2018/04/28/hur-man-kan-fa-ai-genererade-aktieanalyser-som-epost/</guid>
-      <description>Hur man kan få AI genererade aktieanalyser som epost</description>
     </item>
     
     <item>
